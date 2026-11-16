@@ -9,7 +9,7 @@
 | MIPLIB 2017 LP relaxations | [PDLP 2021](#pdlp-line), [cuPDLPx 2025](#cupdlp-line) | Each paper's own baselines, version, tolerance, hardware, presolve, and timeout; do not merge their speedups. |
 | Mittelmann LP instances in individual papers | [HPR-LP 2025](#hpr-lp-line), [cuPDLPx 2025](#cupdlp-line), [cuPSLP 2026](#presolve-and-scaling) | Dataset names overlap, but instances, versions, and measured stage differ. cuPSLP measures **presolve time**; the others measure LP solution time. |
 | Current benchmark-maintainer snapshot | [LPfeas / LPopt](LP.md) | Compare within each published table, with CPU and GPU LPfeas columns separate. |
-| Very large LPs | [PDLP 2026](#pdlp-line), [SHARDLP 2026](#newer-directions) | Different hardware and run configurations; report scale and success separately, not a speedup. |
+| Very large LPs | [PDLP 2026](#pdlp-line), [SHARDLP 2026](#conic-infeasibility-and-distributed-extensions) | Different hardware and run configurations; report scale and success separately, not a speedup. |
 
 ## PDLP line
 
