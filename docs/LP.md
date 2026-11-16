@@ -2,6 +2,8 @@
 
 LP minimizes or maximizes a linear objective over linear equality and inequality constraints. This page separates **algorithm families** from **solver implementations**: a solver can implement several algorithms.
 
+For a paper-by-paper account of methods, code, and reported effects, see the [LP research map](LP_RESEARCH.md).
+
 > Research status (2026-11-16): Current Mittelmann LP tables have been checked. The inventory is not exhaustive. Performance values are source reports, not independent reproductions.
 
 ## Algorithms and implementations
